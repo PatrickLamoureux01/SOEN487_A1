@@ -1,4 +1,6 @@
-package Implementation;
+package com.example.a1.Implementation;
+
+import com.example.a1.Implementation.Artist;
 
 import java.io.Serializable;
 
