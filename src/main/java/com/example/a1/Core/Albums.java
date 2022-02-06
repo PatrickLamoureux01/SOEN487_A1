@@ -1,6 +1,5 @@
 package com.example.a1.Core;
 import com.example.a1.Implementation.Album;
-import com.example.a1.Implementation.Artist;
 
 import java.util.Arrays;
 import java.util.concurrent.ConcurrentHashMap;
