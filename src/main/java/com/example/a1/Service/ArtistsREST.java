@@ -5,9 +5,10 @@ import com.example.a1.Implementation.Artist;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import java.util.ArrayList;
-
+/*
 
 @Path("artists")
+
 public class ArtistsREST {
 
     private static Artists artists = new Artists();
@@ -30,3 +31,4 @@ public class ArtistsREST {
     }
 
 }
+*/
